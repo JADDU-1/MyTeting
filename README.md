@@ -1,2 +1,2 @@
-# MyTeting
+# teting
 Created with CodeSandbox
